@@ -14,7 +14,7 @@ class Melisa {
 ```
 
 - 🎓 **FPB Informática de Oficina → CFGM Sistemas Microinformáticos y Redes → CFGS DAM**
-- 📱 Desarrollo de aplicaciones móviles con **Flutter & Firebase**
+- 📱 Desarrollo de aplicaciones móviles y multiplataforma
 - 🚀 Proyectos open source orientados a resolver problemas reales
 - 🎯 Abierta a oportunidades en desarrollo móvil y multiplataforma
 
