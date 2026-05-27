@@ -1,9 +1,4 @@
 <h1 align="center">Hola, soy Melisa 👋</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F80FF&center=true&vCenter=true&width=500&lines=Técnico+en+DAM;Desarrolladora+Flutter+%26+Firebase;Aplicaciones+multiplataforma;Siempre+aprendiendo" alt="Typing SVG" />
-</div>
-
 <br/>
 
 ## 👩‍💻 Sobre mí
@@ -46,28 +41,13 @@ class Melisa {
 
 <div align="center">
 
-[![SUSTIHORARIO](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=sustihorario&theme=tokyonight&hide_border=true)](https://github.com/tu-usuario/sustihorario)
+[SUSTIHORARIO](https://github.com/melisahilario/Proyecto_SustiHorario)
 
 </div>
 
 > 📋 **SUSTIHORARIO** — Sistema de gestión de guardias para centros educativos.
 > Asignación automática de sustitutos, notificaciones push en tiempo real y mercado de intercambio entre profesores.
 > Construido con **Flutter + Firebase**.
-
----
-
-## 📊 Estadísticas
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ## 📬 Contacto
 
